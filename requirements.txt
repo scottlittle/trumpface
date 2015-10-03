@@ -1,0 +1,4 @@
+#this enables others to pip install everything
+#pip install -r requirements.txt
+#check out the repo, run above command
+flask
